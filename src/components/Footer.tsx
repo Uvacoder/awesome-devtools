@@ -6,27 +6,27 @@ const Footer: React.FC = () => (
       Made with &nbsp;❤️&nbsp;&nbsp; by&nbsp;
       <a
         className="text-theme-yellow hover:underline"
-        href="https://sunny.gg/awesome-devtools"
+        href="https://abclinks.vercel.app"
       >
-        Sunny Golovine
+        uvacoder
       </a>
     </p>
     <p className="text-sm font-bold text-theme-white py-2">
       View the{" "}
       <a
         className="text-theme-yellow hover:underline"
-        href="https://github.com/sgolovine/awesome-devtools"
+        href="https://github.com/uvacoder/awesome-devtools"
       >
         Source on Github
       </a>
     </p>
     <p className="text-sm font-bold text-theme-white py-2">
-      Copyright © 2021&nbsp;
+      Copyright © 2022&nbsp;
       <a
         className="text-theme-yellow hover:underline"
-        href="https://awesomedevtools.com"
+        href="https://awesome-devtools.vercel.app"
       >
-        awesomedevtools.com
+        awesome-devtools.vercel.app
       </a>
     </p>
   </div>
