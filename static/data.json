@@ -1,10 +1,10 @@
 {
   "tools": [
     {
-      "name": "Awesome Devtools",
-      "description": "A collection of awesome devtools from around the internet",
-      "url": "https://awesomedevtools.com",
-      "tags": ["Awesome", "List", "Tools"]
+      "name": "Devtools",
+      "description": "A collection of devtools from around the internet",
+      "url": "https://awesome-devtools.vercel.app",
+      "tags": ["Awesome", "List", "Tools, Resources, Collection"]
     },
     {
       "name": "Responsively",
