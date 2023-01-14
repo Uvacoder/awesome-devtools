@@ -52,7 +52,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "validate-data": "node ./scripts/validate-schema.js",
-    "typecheck": "tsc",
-    "postinstall": "patch-package"
+    "typecheck": "tsc"
   }
 }
