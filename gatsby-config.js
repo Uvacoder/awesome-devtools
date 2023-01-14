@@ -33,14 +33,6 @@ module.exports = {
         icon: `static/favicon.png`,
       },
     },
-    {
-      resolve: `gatsby-plugin-plausible`,
-      options: {
-        domain: `awesomedevtools.com`,
-        customDomain: `analytics.glvn.co`,
-        runInDevelopment: false,
-      },
-    },
     `gatsby-plugin-preact`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-postcss`,
